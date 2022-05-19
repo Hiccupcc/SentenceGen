@@ -1,0 +1,15 @@
+D:\Miscellaneous\Coding\Projects\SentenceGen\bin\Debug\net6.0\SentenceGen.exe
+D:\Miscellaneous\Coding\Projects\SentenceGen\bin\Debug\net6.0\SentenceGen.deps.json
+D:\Miscellaneous\Coding\Projects\SentenceGen\bin\Debug\net6.0\SentenceGen.runtimeconfig.json
+D:\Miscellaneous\Coding\Projects\SentenceGen\bin\Debug\net6.0\SentenceGen.dll
+D:\Miscellaneous\Coding\Projects\SentenceGen\bin\Debug\net6.0\SentenceGen.pdb
+D:\Miscellaneous\Coding\Projects\SentenceGen\obj\Debug\net6.0\SentenceGen.csproj.AssemblyReference.cache
+D:\Miscellaneous\Coding\Projects\SentenceGen\obj\Debug\net6.0\SentenceGen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Miscellaneous\Coding\Projects\SentenceGen\obj\Debug\net6.0\SentenceGen.AssemblyInfoInputs.cache
+D:\Miscellaneous\Coding\Projects\SentenceGen\obj\Debug\net6.0\SentenceGen.AssemblyInfo.cs
+D:\Miscellaneous\Coding\Projects\SentenceGen\obj\Debug\net6.0\SentenceGen.csproj.CoreCompileInputs.cache
+D:\Miscellaneous\Coding\Projects\SentenceGen\obj\Debug\net6.0\SentenceGen.dll
+D:\Miscellaneous\Coding\Projects\SentenceGen\obj\Debug\net6.0\refint\SentenceGen.dll
+D:\Miscellaneous\Coding\Projects\SentenceGen\obj\Debug\net6.0\SentenceGen.pdb
+D:\Miscellaneous\Coding\Projects\SentenceGen\obj\Debug\net6.0\SentenceGen.genruntimeconfig.cache
+D:\Miscellaneous\Coding\Projects\SentenceGen\obj\Debug\net6.0\ref\SentenceGen.dll
